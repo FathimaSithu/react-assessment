@@ -7,7 +7,7 @@ function BannerPage() {
       <div className="bannerContent">
       
         <div className="bannerContentText">
-          <h1>Chase Views In Breezy Shoes</h1>
+          <h1>Chase Views In Breezy Shoe</h1>
           <p>The lightweight Tree Runner is ready for anything summer throws at you.</p>
         </div>
         <div className="bannerContentButton">
